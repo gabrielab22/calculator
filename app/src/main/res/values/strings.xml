@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">vjezba2</string>
+    <string-array name="spinnerItems">
+        <item>"+"</item>
+        <item>"-"</item>
+        <item>"*"</item>
+        <item>"/"</item>
+    </string-array>
+</resources>
